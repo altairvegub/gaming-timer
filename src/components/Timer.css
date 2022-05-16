@@ -1,0 +1,17 @@
+.Timer {
+  text-align: center;
+}
+
+.Timer span {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.Label {
+  font-size: 25px;
+}
+
+.Digit {
+  font-size: 60px;
+  font-weight: normal;
+}
